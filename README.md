@@ -17,16 +17,16 @@ Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abga
 
 ## 27.2.2024
 
-- [ ] Video von Spieleentwickler
+- [ ] Video von Spieleentwickler in winforms https://www.youtube.com/watch?v=rQBHwdEEL9I (40 min)
 - [ ] Notizen dazu schreiben
-- [ ] Angeschautes vertiefen/lernen
-- [ ] kleines Programm
+- [ ] ersten Arbeits auftrag des neuen Modull machen
+- [ ] Ein "Welt design" für ein Game machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |       video               |        lernen        |       können         |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |       video                |        lernen        |       können         |          |
+| 3               |       Word Dok             |     doing            |   finish correct?          |          |
+| 4               |       leere Windforms mappe|      codieren          |      kleine plattform          |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
