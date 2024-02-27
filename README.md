@@ -13,7 +13,7 @@ Tim Tafolli
 
 ## 20.2.2024
 
-Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abgaben haben, kam mir das Lernatelier sehr gelegen. Ich habe die den SQL-code vervollständigt und habe diverse INSERT INTO befehle geschrieben. Beim Arbeitet ist mir jedoch ein gravierender Fehler aufgeffallen und ich musste meine Database löschen und neu machen, zum Glück habe ich den SQL-Code gespeichert. 60 Wörter
+Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abgaben haben, kam mir das Lernatelier sehr gelegen. Ich habe die den SQL-code vervollständigt und habe diverse INSERT INTO befehle geschrieben. Beim Arbeitet ist mir jedoch ein gravierender Fehler aufgeffallen und ich musste meine Database löschen und neu machen, zum Glück habe ich den SQL-Code gespeichert. (60 Wörter)
 
 ## 27.2.2024
 
@@ -28,9 +28,10 @@ Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abga
 | 3               |       Word Dok             |     doing            |   finish correct?          |          |
 | 4               |       leere Windforms mappe|      codieren          |      kleine plattform          |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir dieses YouTube Video angeschaut und habe das Welt design gemacht, das heisst Plattformen usw. Das Video war sehr interessant und hat mir Windows Forms viel nähergebracht. Viele neue dinge habe ich gelernt wie ich z.B das Weltdesign mache oder wie man bewegende Plattformen macht. (50 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 
 ## Reflexion
 
