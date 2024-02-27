@@ -24,11 +24,28 @@ Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abga
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |       video                |        lernen        |       können         |          |
-| 3               |       Word Dok             |     doing            |   finish correct?          |          |
-| 4               |       leere Windforms mappe|      codieren          |      kleine plattform          |          |
+| 1               |       video                |        lernen        |       können         |       Ja   |
+| 3               |       Word Dok             |     doing            |   finish correct?          |    Ja      |
+| 4               |       leere Windforms mappe|      codieren          |      kleine plattform          |  Ja        |
 
 Heute habe ich mir dieses YouTube Video angeschaut und habe das Welt design gemacht, das heisst Plattformen usw. Das Video war sehr interessant und hat mir Windows Forms viel nähergebracht. Viele neue dinge habe ich gelernt wie ich z.B das Weltdesign mache oder wie man bewegende Plattformen macht. (50 Wörter)
+
+
+- [ ]  Player machen der sich bewegt
+- [ ] Feind machen der sich bewegt
+- [ ] Plattform machen die sich bewegt
+- [ ] ein Ausgang machen/Ziel
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |       Platform              |        lernen        |      Bewgen        |          |
+| 3               |      Enemy          |     touch          |   die       |          |
+| 4               |       Player |      Tastatur eingabe        |      move          |          |
+
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
