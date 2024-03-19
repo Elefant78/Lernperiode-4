@@ -31,6 +31,8 @@ Heute habe ich hart am Modul 164 gearbeitet, da wir diese Wochen zwei Modul abga
 Heute habe ich mir dieses YouTube Video angeschaut und habe das Welt design gemacht, das heisst Plattformen usw. Das Video war sehr interessant und hat mir Windows Forms viel nähergebracht. Viele neue dinge habe ich gelernt wie ich z.B das Weltdesign mache oder wie man bewegende Plattformen macht. (50 Wörter)
 
 
+## 5.03.24
+
 - [ ]  Player machen der sich bewegt
 - [ ] Feind machen der sich bewegt
 - [ ] Plattform machen die sich bewegt
@@ -43,8 +45,23 @@ Heute habe ich mir dieses YouTube Video angeschaut und habe das Welt design gema
 | 3               |      Enemy          |     touch          |   die       |          |
 | 4               |       Player |      Tastatur eingabe        |      move          |          |
 
+Heute habe ich die obigen Arbeitspackete gemacht und sie sind mir gut gelungen. Ich konnte gut mit Hilfe von AI’s, Google und YouTube arbeiten um offene Fragen zu beantworten. Ein bisschen knifflig war es schon, doch was wäre ein Spiel ohne eine Challenge. Ich erhoffe mir das es weiter so gut läuft in Zukunft.(54 Wörter)
 
 
+## 12.05.24
+
+- [ ]  Player machen der Springt 
+- [ ] Coins machen
+- [ ] Coins aufsammlen können
+- [ ] Dokumetation von 187 erarbeitet
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |       coin           |        touch        |     take        |          |
+| 3               |      coin            |     taken          |   score up     |          |
+| 4               |       Player |      Tastatur eingabe        |      move          |          |
+
+Heute ging alles ein bisschen schlechter, mit dem Arbeiteten, mit Lösungen finden, mit der Konzentration. Also war es gut ein anderes Arbeitspacket zu haben als das Game immer weiter und weiter zu Programmieren. Das Dokumentieren ging schlechterer als gedacht, weil es so viel Masse war was man dokumentieren musste. (50 Wörter)
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
