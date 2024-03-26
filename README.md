@@ -91,6 +91,9 @@ foreach (Control x in this.Controls)
 - [ ] LA 2411
 - [ ] (Projekt weiter machen)
 
+
+Heute war wieder OPL, mein Arbeitsverhalten hat sich, im vergleich zu den alten OPL‘s, stark verbessert. Ich habe mich nicht mehr so ablenken lassen von Kleinlichkeiten, wie  WhatsApp Mitteilungen oder meine Mutter die Homeoffice zu der Zeit hat. Ich habe die LA beide lösen, die haben mehr Zeit beansprucht wie gedacht. Durch das konnte ich nicht so lange an meinem Projekt arbeiten. (62 Wörter)
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
