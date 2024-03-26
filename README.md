@@ -48,7 +48,7 @@ Heute habe ich mir dieses YouTube Video angeschaut und habe das Welt design gema
 Heute habe ich die obigen Arbeitspackete gemacht und sie sind mir gut gelungen. Ich konnte gut mit Hilfe von AI’s, Google und YouTube arbeiten um offene Fragen zu beantworten. Ein bisschen knifflig war es schon, doch was wäre ein Spiel ohne eine Challenge. Ich erhoffe mir das es weiter so gut läuft in Zukunft.(54 Wörter)
 
 
-## 12.05.24
+## 12.03.24
 
 - [ ]  Player machen der Springt 
 - [ ] Coins machen
@@ -63,6 +63,20 @@ Heute habe ich die obigen Arbeitspackete gemacht und sie sind mir gut gelungen. 
 
 Heute ging alles ein bisschen schlechter, mit dem Arbeiteten, mit Lösungen finden, mit der Konzentration. Also war es gut ein anderes Arbeitspacket zu haben als das Game immer weiter und weiter zu Programmieren. Das Dokumentieren ging schlechterer als gedacht, weil es so viel Masse war was man dokumentieren musste. (50 Wörter)
 
+## 19.03.24
+
+- [ ]  LA 2405
+- [ ] LA 2407
+- [ ] LA 2408
+- [ ] LA 2404
+
+Heute hatten wir wieder Präsent-Unterricht. Ich habe gemerkt, dass ich hinten drein bin im Modul 106, deswegen habe ich mich Entschieden verschiedenste Aufträge zu machen wie LA 2405. Ich hatte fragen zum Joint, beim Auftrag 2407, doch ich konnte meine Klassenkameraden um Hilfe bitten, deswegen bin ich auch öfters rüber gegangen. (51Wörter)
+
+## 26.03.24
+
+- [ ]  LA 2410
+- [ ] LA 2411
+- [ ] (Projekt weiter machen)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
