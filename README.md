@@ -72,6 +72,17 @@ Heute ging alles ein bisschen schlechter, mit dem Arbeiteten, mit Lösungen find
 
 Heute hatten wir wieder Präsent-Unterricht. Ich habe gemerkt, dass ich hinten drein bin im Modul 106, deswegen habe ich mich Entschieden verschiedenste Aufträge zu machen wie LA 2405. Ich hatte fragen zum Joint, beim Auftrag 2407, doch ich konnte meine Klassenkameraden um Hilfe bitten, deswegen bin ich auch öfters rüber gegangen. (51Wörter)
 
+
+## Code
+foreach (Control x in this.Controls)
+{
+    if  (x is PictureBox && x.Visible ==false )
+    {
+        x.Visible = true;
+    }
+
+}
+
 ## 26.03.24
 
 - [ ]  LA 2410
